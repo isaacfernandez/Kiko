@@ -1,6 +1,6 @@
-----
+---
 title:	"On blogging"
-----
+---
 
 I have been kicking around the idea of starting a blog since finishing highschool. Not for you, the reader. 
 
