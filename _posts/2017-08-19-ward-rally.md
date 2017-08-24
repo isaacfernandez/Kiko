@@ -1,0 +1,3 @@
+As he paused recompose himself, Tom admired the massive crowd assembled around him, cheering at his words and waving the banner that he had led into countless battles. He raised his hand and the crowd went silent. "Victory accomplished, comrades! Through our blood, sweat, and tears we have shown time and time that we will not be repressed. This land belongs to us, and none may take it from us! Now, our true work begins. Starting tomorrow ... " 
+
+Outside of his room, two nurses commented that yesterday's speech had been more compelling and agreed that Wednesday's had been the best thus far. They tuned out his ravings as they prepared Tom's daily cocktail of medicines. 

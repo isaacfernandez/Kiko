@@ -3,8 +3,6 @@ title: About
 permalink: /about/
 ---
 
-Placeholder text from the theme:
+Hi,
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
-
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+This blog is currently just a journal for me to write in when I am feeling up to it. The end goal is to get myself writing more. I'm currently focusing on very short (<500 word) nonfiction and personal thoughts. 
