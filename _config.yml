@@ -24,8 +24,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/todo-fix"
-# - name:           "Download"
-#   href:           "//githucom/gfjaru/Kiko/releases"
+  - name:           "Stories"
+    href:           "/stories"
 
 # Sass
 sass:
@@ -45,6 +45,14 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "stories"
+    values:
+      layout:       "post"
+
+
 
 gems:
   - jekyll-seo-tag
